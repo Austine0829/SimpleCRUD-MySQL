@@ -115,8 +115,7 @@ class infoManagementSystem {
 
 			meneFunc();
 		}
-		
-		//BUG//Student ID 1 NOT WORKING 
+
 		void checkStudentInfo() {
 
 			sql::Driver* driver;
